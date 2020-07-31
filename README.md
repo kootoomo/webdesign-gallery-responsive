@@ -1,1 +1,1 @@
-# webdesign-gallery-responsive
+# webdesign-Gallery-responsive
